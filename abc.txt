@@ -1,7 +1,4 @@
-aaaaaaaaaaaaaa
-bbbbbbbbbbbbb
-ccccccccccccc
-s is the file with random data
+as is the file with random data
 this file has no errors
 this is my third line
 this file is a example file

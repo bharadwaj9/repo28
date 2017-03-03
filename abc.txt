@@ -1,9 +1,4 @@
 1111111111111
-2222222222222
-3333333333
-4444
-aaaaaaaaaaaaaa
-bbbbbbbbbbbbb
 ccccccccccccc
 s is the file with random data
 this file has no errors
